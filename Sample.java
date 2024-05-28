@@ -5,6 +5,7 @@ class Sample
       System.out.println("Sample");
       for(int i=0;i<3;i++)
         System.out.println("hi");
+      System.out.println("Bye");
     }
-    System.out.println("Bye");
+    
   }
